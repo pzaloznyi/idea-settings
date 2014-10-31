@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<code_scheme name="Default (1)">
+  <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="10" />
+  <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="10" />
+  <option name="IMPORT_LAYOUT_TABLE">
+    <value>
+      <package name="java" withSubpackages="true" static="false" />
+      <package name="javax" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="no.finntech" withSubpackages="true" static="false" />
+      <package name="" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="java" withSubpackages="true" static="true" />
+      <package name="" withSubpackages="true" static="true" />
+    </value>
+  </option>
+  <GroovyCodeStyleSettings>
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="10" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="10" />
+  </GroovyCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="Groovy">
+    <option name="METHOD_ANNOTATION_WRAP" value="1" />
+    <option name="FIELD_ANNOTATION_WRAP" value="1" />
+    <indentOptions>
+      <option name="LABEL_INDENT_SIZE" value="-2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <arrangement>
+      <groups>
+        <group>
+          <type>GETTERS_AND_SETTERS</type>
+          <order>KEEP</order>
+        </group>
+      </groups>
+      <rules>
+        <rule>
+          <match>
+            <AND>
+              <FIELD />
+              <FINAL />
+              <PUBLIC />
+              <STATIC />
+            </AND>
+          </match>
+        </rule>
+        <rule>
+          <match>
+            <AND>
+              <FIELD />
+              <FINAL />
+              <PROTECTED />
+              <STATIC />
+            </AND>
+          </match>
+        </rule>
+        <rule>
+          <match>
+            <AND>
+              <FIELD />
+              <FINAL />
+              <PACKAGE_PRIVATE />
+              <STATIC />
+            </AND>
+          </match>
+        </rule>
+        <rule>
+          <match>
+            <AND>
+              <FIELD />
+              <FINAL />
+              <PRIVATE />
+              <STATIC />
+            </AND>
+          </match>
+        </rule>
+        <rule>
+          <match>
+            <AND>
+              <FIELD />
+              <PUBLIC />
+              <STATIC />
+            </AND>
+          </match>
+        </rule>
+        <rule>
+          <match>
+            <AND>
+              <FIELD />
+              <PROTECTED />
+              <STATIC />
+            </AND>
+          </match>
+        </rule>
+        <rule>
+          <match>
+            <AND>
+              <FIELD />
+              <PACKAGE_PRIVATE />
+              <STATIC />
+            </AND>
+          </match>
+        </rule>
+        <rule>
+          <match>
+            <AND>
+              <FIELD />
+              <PRIVATE />
+              <STATIC />
+            </AND>
+          </match>
+        </rule>
+        <rule>
+          <match>
+            <AND>
+              <FIELD />
+              <FINAL />
+              <PUBLIC />
+            </AND>
+          </match>
+        </rule>
+        <rule>
+          <match>
+            <AND>
+              <FIELD />
+              <FINAL />
+              <PROTECTED />
+            </AND>
+          </match>
+        </rule>
+        <rule>
+          <match>
+            <AND>
+              <FIELD />
+              <FINAL />
+              <PACKAGE_PRIVATE />
+            </AND>
+          </match>
+        </rule>
+        <rule>
+          <match>
+            <AND>
+              <FIELD />
+              <FINAL />
+              <PRIVATE />
+            </AND>
+          </match>
+        </rule>
+        <rule>
+          <match>
+            <AND>
+              <FIELD />
+              <PUBLIC />
+            </AND>
+          </match>
+        </rule>
+        <rule>
+          <match>
+            <AND>
+              <FIELD />
+              <PROTECTED />
+            </AND>
+          </match>
+        </rule>
+        <rule>
+          <match>
+            <AND>
+              <FIELD />
+              <PACKAGE_PRIVATE />
+            </AND>
+          </match>
+        </rule>
+        <rule>
+          <match>
+            <AND>
+              <FIELD />
+              <PRIVATE />
+            </AND>
+          </match>
+        </rule>
+        <rule>
+          <match>
+            <FIELD />
+          </match>
+        </rule>
+        <rule>
+          <match>
+            <CONSTRUCTOR />
+          </match>
+        </rule>
+        <rule>
+          <match>
+            <AND>
+              <METHOD />
+              <STATIC />
+            </AND>
+          </match>
+        </rule>
+        <rule>
+          <match>
+            <METHOD />
+          </match>
+        </rule>
+        <rule>
+          <match>
+            <ENUM />
+          </match>
+        </rule>
+        <rule>
+          <match>
+            <INTERFACE />
+          </match>
+        </rule>
+        <rule>
+          <match>
+            <AND>
+              <CLASS />
+              <STATIC />
+            </AND>
+          </match>
+        </rule>
+        <rule>
+          <match>
+            <CLASS />
+          </match>
+        </rule>
+      </rules>
+    </arrangement>
+  </codeStyleSettings>
+</code_scheme>
+

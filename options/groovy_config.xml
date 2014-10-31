@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="GroovyApplicationSettings">
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
+    <option name="EXTRACT_METHOD_SPECIFY_TYPE" value="true" />
+    <option name="EXTRACT_METHOD_VISIBILITY" value="private" />
+  </component>
+</application>
+

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="libraries">
+      <project id="travel-app" values="TransactionJavaee,JMS,groovy,EJB,spring,spring-ws,JAX-RS,WebSocket,spring-mvc" />
+      <project id="hotel-api" values="CDI,spring,groovy" />
+      <project id="iad" values="spring-mvc,spring-webflow,spring,groovy" />
+      <project id="event-collector" values="JAX-RS,spring,CDI,spring-mvc" />
+    </group>
+    <group name="language-level">
+      <project id="travel-app" values="JDK_1_7" />
+      <project id="camel" values="JDK_1_7" />
+      <project id="travel-board" values="JDK_1_6" />
+      <project id="hotel-api" values="JDK_1_7,JDK_1_6" />
+      <project id="search-management" values="JDK_1_6,JDK_1_7" />
+      <project id="iad" values="JDK_1_6" />
+      <project id="event-collector" values="JDK_1_7,JDK_1_6" />
+    </group>
+    <group name="vcs">
+      <project id="travel-app" values="Git" />
+      <project id="travel-board" values="Git" />
+      <project id="hotel-api" values="Git" />
+      <project id="search-management" values="Git" />
+      <project id="iad" values="Git" />
+      <project id="event-collector" values="Git" />
+    </group>
+    <group name="frameworks">
+      <project id="travel-app" values="Python,web,Spring,JRUBY,Osmorc" />
+      <project id="hotel-api" values="Python,web" />
+      <project id="search-management" values="Spring" />
+      <project id="iad" values="web,Spring" />
+      <project id="event-collector" values="web" />
+    </group>
+    <group name="ruby-project-type">
+      <project id="travel-app" values="plain ruby=2" />
+      <project id="travel-board" values="plain ruby" />
+    </group>
+    <group name="spring">
+      <project id="search-management" values="facet_xmlContext" />
+      <project id="iad" values="facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="travel-app" values="MavenRunConfiguration,#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local,Remote" />
+      <project id="travel-board" values="TestUnitRunConfigurationType,IrbRunConfigurationType" />
+      <project id="hotel-api" values="Remote,MavenRunConfiguration" />
+      <project id="iad" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
+    </group>
+    <group name="module type">
+      <project id="travel-app" values="JAVA_MODULE" />
+      <project id="camel" values="JAVA_MODULE" />
+      <project id="travel-board" values="RUBY_MODULE" />
+      <project id="hotel-api" values="JAVA_MODULE" />
+      <project id="search-management" values="JAVA_MODULE" />
+      <project id="iad" values="JAVA_MODULE" />
+      <project id="event-collector" values="JAVA_MODULE" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="travel-app" values="JUnit" />
+      <project id="camel" values="Application,GroovyScriptRunConfiguration" />
+      <project id="travel-board" values="RakeRunConfigurationType,TestUnitRunConfigurationType,RubyRunConfigurationType" />
+      <project id="hotel-api" values="JUnit,GroovyScriptRunConfiguration" />
+    </group>
+    <group name="file-type">
+      <project id="travel-app" values="JSP,Cucumber,Ruby,Groovy,CoffeeScript,Eclipse,Manifest,CLASS,Properties,UNKNOWN,PLAIN_TEXT,Images,JAVA,Perl,CSS,ActionScript,YAML,VTL,C++,SWF,JavaScript,XML,IDEA_MODULE,LESS,JSON,HTML,ARCHIVE,JSHint" />
+      <project id="camel" values="XML,JAVA,IDEA_WORKSPACE,PLAIN_TEXT,IDEA_PROJECT,IDEA_MODULE,UNKNOWN,Groovy" />
+      <project id="travel-board" values="Ruby,CoffeeScript,IDEA_MODULE,HTML,JavaScript,JSON,RHTML,Images,UNKNOWN,SCSS,XML,CSS,PLAIN_TEXT,YAML" />
+      <project id="hotel-api" values="IDEA_MODULE,JAVA,ARCHIVE,JSP,XML,CSS,Groovy,Properties,Python,PLAIN_TEXT,JavaScript,UNKNOWN,Manifest,HTML,CLASS" />
+      <project id="search-management" values="VTL,UNKNOWN,Properties,IDEA_MODULE,JAVA,PLAIN_TEXT,XML" />
+      <project id="iad" values="JSON,CSS,CLASS,Properties,HTML,VTL,JAVA,JSHint,YAML,Images,ARCHIVE,DTD,SQL,JSP,XML,JavaScript,Native,UNKNOWN,Perl,SWF,IDEA_MODULE,PLAIN_TEXT" />
+      <project id="event-collector" values="DTD,YAML,UNKNOWN,RDOC,IDEA_MODULE,JAVA,Properties,XML,PLAIN_TEXT" />
+    </group>
+    <group name="ruby-gems-names">
+      <project id="travel-board" values="rb-kqueue,rest-client,tilt,slop,tzinfo,coderay,minitest,backports,hipchat-api,rack-protection,sprockets,addressable,rb-fsevent,rack,coffee-script-source,webmock,bundler,rufus-scheduler,rb-inotify,simple_oauth,finn_dashing,powerbar,formatador,thin,safe_yaml,httparty,listen,hike,sass,sinatra,daemons,lumberjack,ansi,guard-minitest,unicorn,coffee-script,i18n,raindrops,rake,twitter,multi_xml,crack,sinatra-contrib,minitest-reporters,hashr,ffi,activesupport,json,pry,guard,kgio,mime-types,faraday,multi_json,thor,activemodel,method_source,rack-test,hashie,execjs,multipart-post,builder,tire,eventmachine" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="travel-app" values="Project,Project" />
+      <project id="camel" values="Project,Project" />
+      <project id="travel-board" values="Project,Project" />
+      <project id="hotel-api" values="Project,Project" />
+      <project id="search-management" values="Project,Project" />
+      <project id="iad" values="Project,Project" />
+      <project id="event-collector" values="Project,Project" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="travel-app" values="DEFAULT" />
+      <project id="camel" values="DEFAULT" />
+      <project id="travel-board" values="DEFAULT" />
+      <project id="hotel-api" values="DEFAULT" />
+      <project id="search-management" values="DEFAULT" />
+      <project id="iad" values="DEFAULT" />
+      <project id="event-collector" values="DEFAULT" />
+    </group>
+    <group name="ruby-custom-scripts">
+      <project id="travel-app" values="loaded scripts" />
+      <project id="travel-board" values="loaded scripts" />
+      <project id="search-management" values="loaded scripts" />
+      <project id="event-collector" values="loaded scripts" />
+    </group>
+    <group name="ruby-sdk-version">
+      <project id="travel-board" values="ruby-2.0.0-p247" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="66" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="108" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Debug" count="55" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Executor" count="2" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="1" />
+      <entry feature="execute.Application.Debug" count="11" />
+      <entry feature="execute.Application.Run" count="49" />
+      <entry feature="execute.CucumberJavaRunConfigurationType.Debug" count="29" />
+      <entry feature="execute.CucumberJavaRunConfigurationType.JRebel Debug" count="1" />
+      <entry feature="execute.CucumberJavaRunConfigurationType.Run" count="156" />
+      <entry feature="execute.GroovyScriptRunConfiguration.Run" count="3" />
+      <entry feature="execute.IrbRunConfigurationType.Run" count="3" />
+      <entry feature="execute.JUnit.Debug" count="257" />
+      <entry feature="execute.JUnit.Run" count="2299" />
+      <entry feature="execute.MavenRunConfiguration.Debug" count="171" />
+      <entry feature="execute.RakeRunConfigurationType.Run" count="2" />
+      <entry feature="execute.Remote.Debug" count="24" />
+      <entry feature="execute.RubyRunConfigurationType.Run" count="1" />
+      <entry feature="execute.TestUnitRunConfigurationType.Run" count="26" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="164" />
+    </counts>
+  </component>
+</application>
+
